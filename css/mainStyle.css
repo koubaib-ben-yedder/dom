@@ -1,0 +1,58 @@
+.carousel  {
+    position: static;
+}
+.carousel-indicators{
+
+
+    position: relative;
+}
+.button-position{
+    
+    
+    position: absolute;
+  
+    bottom: 0px;
+
+}
+
+
+#TotalValue,#TotalCount{
+
+    color: rgba(255 255 255 / 94%);
+}
+.textzone{
+
+    width: 92%;
+
+}
+.card-text,.card-title{
+
+    color: rgba(255 255 255 / 94%);
+}
+.card{
+
+    width: 18rem;
+
+}
+.carousel-control-next, .carousel-control-prev {
+
+    
+}
+span.carousel-control-prev-icon,.carousel-control-next-icon{
+
+    box-shadow: rgb(255 255 255 / 94%) 0px 54px 55px, rgb(255 255 255 / 94%) 0px -12px 30px, rgb(255 255 255 / 94%) 0px 4px 6px, rgb(255 255 255 / 94%) 0px 12px 13px, rgb(255 255 255 / 94%) 0px -3px 5px;
+
+}
+video{
+    width: 100%;
+    height: 100%;
+   
+}
+.col-9{
+
+    height: 73vh;
+
+}
+
+
+
